@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\bin\Debug\net8.0\XMatrixAssignment.exe
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\bin\Debug\net8.0\XMatrixAssignment.deps.json
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\bin\Debug\net8.0\XMatrixAssignment.runtimeconfig.json
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\bin\Debug\net8.0\XMatrixAssignment.dll
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\bin\Debug\net8.0\XMatrixAssignment.pdb
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.AssemblyInfo.cs
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.dll
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\refint\XMatrixAssignment.dll
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.pdb
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\XMatrixAssignment.genruntimeconfig.cache
+C:\Users\USER\Desktop\GitHub\XMatrixAssignment\obj\Debug\net8.0\ref\XMatrixAssignment.dll
